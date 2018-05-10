@@ -1,9 +1,10 @@
 # Basic
 title: 雨水
 subtitle: 时间是一切财富中最宝贵的财富！
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 生而被割，生生不息  ----韭菜.
-creator: <a href="http://onev.cat">@onevcat</a>
+#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Welcome Everybody</a>
+welcome_message: <a target="_blank">Welcome Everybody</a>
+description: 生而被割，生生不息.
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
 
