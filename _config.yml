@@ -6,7 +6,7 @@ welcome_message: <a target="_blank">Welcome Everybody</a>
 description: 生而被割，生生不息.
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+#url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -38,10 +38,10 @@ comment:
     
 # Social
 social:
-    weibo: yushui
-    github: yushui
-    twitter: yushui
-    gplus: 107108267983477358170
+   # weibo: yushui
+    github: talaoda
+   # twitter: yushui
+   # gplus: 107108267983477358170
     mail: top1.vip@qq.com
 
 # Google Analytics
